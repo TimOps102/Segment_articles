@@ -1,6 +1,7 @@
 # Segment_articles
 
 This project trys to segment articles on a testsample of the Nazi Newspaper "Freiheitskampf" [see](https://hait.tu-dresden.de/ext/forschung/der-freiheitskampf.asp).
+![Bild kann nicht angezeigt werden](thumbnail.jpg)
 
 # Steps
 
